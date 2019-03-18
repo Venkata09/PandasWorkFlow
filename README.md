@@ -11,11 +11,13 @@ Steps to follow
 
 Set the following environment variables
 
+
+
 Name						Value
-SPARK_HOME					D:\spark\spark-2.2.1-bin-hadoop2.7
-HADOOP_HOME					D:\spark\spark-2.2.1-bin-hadoop2.7
-PYSPARK_DRIVER_PYTHON		jupyter
-PYSPARK_DRIVER_PYTHON_OPTS	notebook
+1. SPARK_HOME					D:\spark\spark-2.2.1-bin-hadoop2.7
+1. HADOOP_HOME					D:\spark\spark-2.2.1-bin-hadoop2.7
+1. PYSPARK_DRIVER_PYTHON		jupyter
+1. PYSPARK_DRIVER_PYTHON_OPTS	notebook
 
 
 You are all set use PySpark !!! 
